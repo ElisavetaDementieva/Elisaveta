@@ -3,5 +3,9 @@
 HOLA CHIKAS!
 HOLA CHIKOS!
 COME ESTAS?
+<<<<<<< HEAD
 BIEN!
-POR QUE????
+
+=======
+MALE
+>>>>>>> NEWNAME
