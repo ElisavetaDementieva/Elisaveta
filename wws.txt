@@ -5,7 +5,8 @@ HOLA CHIKOS!
 COME ESTAS?
 <<<<<<< HEAD
 BIEN!
-..
+
+
 =======
 MALE
 >>>>>>> NEWNAME
